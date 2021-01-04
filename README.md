@@ -10,4 +10,6 @@ This [Benjaminbenben](https://benjaminbenben.com/lastfm-to-csv/) site allows one
 * Text based -- Attributes/Features - Jaccard Similarity.
 * Content Based -- Plot/Description/Summary - Cosine Similarity.
 * Profile Recommendation -- 
+* Collaborative filtering.
+* 
 
