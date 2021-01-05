@@ -12,5 +12,6 @@ This [Benjaminbenben](https://benjaminbenben.com/lastfm-to-csv/) site allows one
 * Profile Recommendation -- 
 * Collaborative filtering -- user based(similar users). -- item based (similar item feeling)
 * KNNs
-* 
+* Dealing with Sparsity - matrix factorisation -- singular value decomposition.
+* Validation
 
