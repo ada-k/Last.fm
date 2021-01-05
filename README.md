@@ -5,6 +5,7 @@ So its gonna be an analysis platform and a recommendation system. The beginning 
 
 This [Benjaminbenben](https://benjaminbenben.com/lastfm-to-csv/) site allows one to download a users data from the lastfm api and save it as a csv file. 
 
+1. Recommendation part: 
 * Personalised recommendation -- Reviews and ...
 * Non-personalised recommendation -- Common pairs.
 * Text based -- Attributes/Features - Jaccard Similarity.
@@ -14,4 +15,6 @@ This [Benjaminbenben](https://benjaminbenben.com/lastfm-to-csv/) site allows one
 * KNNs
 * Dealing with Sparsity - matrix factorisation -- singular value decomposition.
 * Validation
+
+2. Language Processing
 
