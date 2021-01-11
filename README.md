@@ -3,7 +3,10 @@ Start [here](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=
 
 So its gonna be an analysis platform and a recommendation system. The beginning of an epic journey.
 
-This [Benjaminbenben](https://benjaminbenben.com/lastfm-to-csv/) site allows one to download a users data from the lastfm api and save it as a csv file. 
+#### Dataset
+* This [Benjaminbenben](https://benjaminbenben.com/lastfm-to-csv/) site allows one to download a users data from the lastfm api and save it as a csv file. 
+* [Kaggle dataset](https://www.kaggle.com/pcbreviglieri/lastfm-music-artist-scrobbles?select=lastfm_user_scrobbles.csv) - contains info about scrobbles per artist per user. Useful in artist recommendation.
+* [Kaggle dataset](https://www.kaggle.com/ravichaubey1506/lastfm), kinda same as the above set.
 
 1. Recommendation part: 
 * Personalised recommendation -- Reviews and ...
